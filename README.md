@@ -1,6 +1,5 @@
 Android-Mobile-Biofeedback
 ==========================
-<<<<<<< HEAD
 
 This is an Android-based mobile application that allows 
 the user to read an input signal from an EMG signal capture 
