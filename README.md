@@ -23,11 +23,16 @@ THE HARDWARE
 ============================
 The EMG capture device:
 1 Differential voltage sensor
+
 1 preamplifier (captures voltage signal and amplifies it - also helps if it smooths it out)
+
 1 Analog to digital converter - I used the Arduino Mega ADK, but any board with a CDC/ACM 
   serial driver will work
+  
 1 Micro USB OTG to USB 2.0 Adapter 
+
 1 USB 2.0 A male to USB 2.0 B male cable
+
 Jumper cables
 
 
