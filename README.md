@@ -22,6 +22,7 @@ want
 THE HARDWARE
 ============================
 The EMG capture device:
+
 1 Differential voltage sensor
 
 1 preamplifier (captures voltage signal and amplifies it - also helps if it smooths it out)
