@@ -43,10 +43,12 @@ THE SOFTWARE
 ============================
 Aside from writing a simple sketch to write to the appropriate output pin on 
 the Arduino, there's no software for the EMG capture device.  However, the 
-Android application requires both the usb-serial-for-android library (which works with
-CDC/ACM virtual serial port on Arduino) as well as Graphview, an
+Android application requires both the usb-serial-for-android library (https://github.com/mik3y/usb-serial-for-android)(which works with
+CDC/ACM virtual serial port on Arduino) as well as Graphview(http://android-graphview.org/), an
 Android-based library that lets the application draw real time graphs 
 of the EMG signal.
+
+
 
 This ultimately results in a skin resolution of 10 microvolts, but this can 
 be increased simply by increasing your processor bit count
