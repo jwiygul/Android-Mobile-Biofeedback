@@ -139,6 +139,8 @@ public class SerialConsoleActivity extends Activity {
         	      return null; // let graphview generate Y-axis label for us
         	   }
         	});
+       // graphView.setVerticalLabels(new String[] {"high", "middle", "low"});
+        graphView.getGraphViewStyle().setVerticalLabelsWidth(300);
         graphView.getGraphViewStyle().setNumHorizontalLabels(4);
         graphView.getGraphViewStyle().setNumVerticalLabels(4);
       LinearLayout layout = (LinearLayout) findViewById(R.id.graph);
