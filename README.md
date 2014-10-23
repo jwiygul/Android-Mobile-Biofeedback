@@ -1,5 +1,6 @@
 Android-Mobile-Biofeedback
 ==========================
+<<<<<<< HEAD
 
 This is an Android-based mobile application that allows 
 the user to read an input signal from an EMG signal capture 
@@ -46,4 +47,5 @@ be increased simply by increasing your processor bit count
 Author
 =============================
 Android-Mobile-Biofeedback is an application written by jeremy wiygul
+
 
