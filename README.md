@@ -36,6 +36,8 @@ The EMG capture device:
 
 Jumper cables
 
+USB Host API enabled Android device - I used the Google Nexus 7 tablet
+
 
 THE SOFTWARE
 ============================
