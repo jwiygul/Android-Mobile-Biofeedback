@@ -40,8 +40,10 @@ CDC/ACM virtual serial port on Arduino) as well as Graphview, an
 Android-based library that lets the application draw real time graphs 
 of the EMG signal.
 
-Author, License, and Copyright
+This ultimately results in a skin resolution of 10 microvolts, but this can 
+be increased simply by increasing your processor bit count
+
+Author
 =============================
 Android-Mobile-Biofeedback is an application written by jeremy wiygul
 
-This library is licensed under LGPL Version 2.1. Please see LICENSE.txt for the complete license.
