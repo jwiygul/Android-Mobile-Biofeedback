@@ -140,9 +140,9 @@ public class SerialConsoleActivity extends Activity {
         	   }
         	});
        // graphView.setVerticalLabels(new String[] {"high", "middle", "low"});
-        graphView.getGraphViewStyle().setVerticalLabelsWidth(300);
+        graphView.getGraphViewStyle().setVerticalLabelsWidth(200);
         graphView.getGraphViewStyle().setNumHorizontalLabels(4);
-        graphView.getGraphViewStyle().setNumVerticalLabels(4);
+        graphView.getGraphViewStyle().setNumVerticalLabels(2);
       LinearLayout layout = (LinearLayout) findViewById(R.id.graph);
         layout.addView(graphView);
     }
